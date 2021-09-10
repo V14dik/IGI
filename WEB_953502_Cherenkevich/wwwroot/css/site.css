@@ -1,0 +1,69 @@
+﻿.header{
+    background-color: #545b62;
+}
+.nav-bg{
+    background-color: #545b62;
+}
+.footer{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #545b62;
+
+}
+.nav-color{
+    color: rgba(255, 255, 255, 0.5)
+}
+.nav-item{
+    color: rgba(255, 255, 255, 0.5);
+}
+.navbar-light .navbar-nav .nav-link{
+    color: rgba(255, 255, 255, 0.5);
+}
+.navbar-light .navbar-nav .nav-link.active{
+    color: rgba(255, 255, 255, 0.5);
+}
+.navbar-light .navbar-brand{
+    color: rgba(255, 255, 255, 0.5);
+}
+.nav-brand{
+    color: #F1F3F3;
+    font-family: 'Courier New', Courier, monospace;
+}
+.navbar-light .navbar-text{
+    color:rgba(255, 255, 255, 0.5);
+    margin-right: 2%;
+}
+.avatar {
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.dropdown-toggle{
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.btn-secondary {
+    background-color: #343a40;
+}
+.input-group-sm .form-control{
+    font-size: large;
+}
+.btn-outline-secondary{
+    color: #545b62;
+    border-color: #545b62;
+}
+.form-checkbox{
+    margin-left: 10%;
+}
+.form-radiobtn{
+    margin-left: 10%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.input-group-text{
+    background-color: #545b62;
+    color: rgba(255, 255, 255, 0.5);
+}
